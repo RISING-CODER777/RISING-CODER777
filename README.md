@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/gowtham-cp-61a5381a5/">
-  <img align="left" alt="Gowtham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Gowtham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/linnovate/root-me/master/src/images/icons/linkedin.ico" />
 </a>
 <br />
 
@@ -9,7 +9,10 @@ Hi there! I'm an aspiring developer who loves finding patterns and connecting do
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:cpgowtham7@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 📝 I regularly write articles on [https://medium.com/@Gowtham_CP](https://medium.com/@Gowtham_CP)
+- 💬 Ask me about **Machine Learning , Data Science**
+- 👨‍💻 More about me [https://cpgportfolio.netlify.app/](https://cpgportfolio.netlify.app/)
+
 
 **languages and tools:**  
 
