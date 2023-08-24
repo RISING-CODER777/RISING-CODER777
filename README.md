@@ -1,7 +1,9 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/gowtham-cp-61a5381a5/">
-  <img align="left" alt="Gowtham's LinkedIN" width="22px" src="https://raw.githubusercontent.com/linnovate/root-me/master/src/images/icons/linkedin.ico" />
-</a>
+<p align="left">
+<a href="https://linkedin.com/in/https://in.linkedin.com/in/gowtham-cp-61a5381a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/gowtham-cp-61a5381a5" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@gowtham_cp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@gowtham_cp" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/gowtham_cp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/gowtham_cp/" height="30" width="40" /></a>
+</p>
 <br />
 
 Hi there! I'm an aspiring developer who loves finding patterns and connecting dots: be it ideas from different industries, people from different backgrounds and teams, or applications from different industries. Finding creative solutions to problems is something I have always enjoyed. As a kid I loved tinkering with things that were broken, figuring out how they worked, and fixing them again.If you are interested in contacting me in regards to a position with your company, please email me at cpgowtham7@gmail.com, or feel free to connect with me on LinkedIn.
