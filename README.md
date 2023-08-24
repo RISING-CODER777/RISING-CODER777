@@ -26,8 +26,8 @@ Hi there! I'm an aspiring developer who loves finding patterns and connecting do
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Golang   5 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.50 % 
-Neural Networks         3 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.46 % 
+Go   5 hrs 12 mins   ██████████████▒░░░░░░░░░░   57.50 % 
+Machine Learning         3 hrs 50 mins   ██████████▓░░░░░░░░░░░░░░   42.46 % 
 ```
 <!--END_SECTION:waka-->
 
