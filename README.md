@@ -10,7 +10,7 @@
 
 Hi there! I'm an aspiring developer who loves finding patterns and connecting dots: be it ideas from different industries, people from different backgrounds and teams, or applications from different industries. Finding creative solutions to problems is something I have always enjoyed. As a kid I loved tinkering with things that were broken, figuring out how they worked, and fixing them again.If you are interested in contacting me in regards to a position with your company, please email me at cpgowtham7@gmail.com, or feel free to connect with me on LinkedIn.
 
-![via GIPHY](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Alt Text" align="right" width="400" height="200" />
 
  
 - 🌱 I’m currently learning **AWS**
