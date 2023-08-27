@@ -10,7 +10,8 @@
 
 Hi there! I'm an aspiring developer who loves finding patterns and connecting dots: be it ideas from different industries, people from different backgrounds and teams, or applications from different industries. Finding creative solutions to problems is something I have always enjoyed. As a kid I loved tinkering with things that were broken, figuring out how they worked, and fixing them again.If you are interested in contacting me in regards to a position with your company, please email me at cpgowtham7@gmail.com, or feel free to connect with me on LinkedIn.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+![via GIPHY](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
  
 - 🌱 I’m currently learning **AWS**
 - 💼 any freelance work? do reach, [email](mailto:cpgowtham7@gmail.com) :)
